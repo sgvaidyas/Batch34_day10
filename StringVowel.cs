@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace day10
 {
-	class Program
+	class StringVowel
 	{
 		/*
 		static void printvowels(string s,int i)
